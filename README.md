@@ -16,16 +16,16 @@ I'm Anandu Sasikumar, a passionate Front-End UI Developer from Kochi.
 
   ![image](https://github.com/Anandu-Sasikumar/Anandu-Sasikumar/assets/144160165/61f68b82-d8b2-4396-bcc3-baa00c196a7c) ![image](https://github.com/Anandu-Sasikumar/Anandu-Sasikumar/assets/144160165/45b76828-a1e2-4252-b82b-d1d2e081f66d) ![image](https://github.com/Anandu-Sasikumar/Anandu-Sasikumar/assets/144160165/6e41be5e-ed41-498b-9a23-e7bf388a58a5)
 
-
-## 📝 I’m currently learning
-
-   ![image](https://github.com/Anandu-Sasikumar/Anandu-Sasikumar/assets/144160165/417efba3-8785-4e7e-a5dc-e4850a748b28) ![image](https://github.com/Anandu-Sasikumar/Anandu-Sasikumar/assets/144160165/1a03ba9c-a683-4f41-a87c-7a25a47b0076)
+- Currently Learning:
+- 
+  ![image](https://github.com/Anandu-Sasikumar/Anandu-Sasikumar/assets/144160165/417efba3-8785-4e7e-a5dc-e4850a748b28) ![image](https://github.com/Anandu-Sasikumar/Anandu-Sasikumar/assets/144160165/1a03ba9c-a683-4f41-a87c-7a25a47b0076)
 
 
 ## 📫 How to reach me
 
 - LinkedIn: www.linkedin.com/in/anandu-sasikumar-4b7678281/
 - Email: anandu.sasikumar.kn@gmail.com
+
 
 
 Thanks for stopping by! 😊
